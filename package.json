@@ -1,0 +1,24 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Reto para el puesto de back en node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armander16/CHALLENGE.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "armando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armander16/CHALLENGE/issues"
+  },
+  "homepage": "https://github.com/armander16/CHALLENGE#readme"
+}
